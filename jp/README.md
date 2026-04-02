@@ -32,6 +32,16 @@
 
 ---
 
+## 📊 プレゼン資料（PDF）
+
+- **日本語版プレゼン資料**  
+  [../presentation/JP_Presentation.pdf](../presentation/JP_Presentation.pdf)
+
+- **英語版プレゼン資料**  
+  [../presentation/EN_Presentation.pdf](../presentation/EN_Presentation.pdf)
+
+---
+
 ## 📁 フォルダ構造
 
 ```
