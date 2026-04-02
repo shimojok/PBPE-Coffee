@@ -103,6 +103,18 @@ A5. PBPE Framework Diagram
 
 ---
 
+## 📊 Presentations (EN/JP)
+
+Official PBPE × MBT55 × Coffee presentations:
+
+- **English Presentation (PDF)**  
+  [presentation/EN_Presentation.pdf](presentation/EN_Presentation.pdf)
+
+- **Japanese Presentation (PDF)**  
+  [presentation/JP_Presentation.pdf](presentation/JP_Presentation.pdf)
+
+---
+
 ## 📄 License
 
 To be defined based on project requirements.
