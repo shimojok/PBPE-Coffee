@@ -96,13 +96,6 @@ A5. PBPE Framework Diagram
 
 ---
 
-## 🤝 Contributors
-
-- **Kaz Shimojo** — BioNexus Holdings
-- **Microsoft Copilot** — AI Knowledge Architecture Support
-
----
-
 ## 📊 Presentations (EN/JP)
 
 Official PBPE × MBT55 × Coffee presentations:
@@ -112,6 +105,13 @@ Official PBPE × MBT55 × Coffee presentations:
 
 - **Japanese Presentation (PDF)**  
   [presentation/JP_Presentation.pdf](presentation/JP_Presentation.pdf)
+
+---
+
+## 🤝 Contributors
+
+- **Kaz Shimojo** — BioNexus Holdings
+- **Microsoft Copilot** — AI Knowledge Architecture Support
 
 ---
 
