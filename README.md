@@ -1,3 +1,5 @@
+![PBPE × MBT55 × Coffee Industry Banner](banner-image.png)
+
 # **PBPE-Coffee
 
 Planetary Bio‑Phenome Engine × MBT55/HMT238 × Coffee Industry  
