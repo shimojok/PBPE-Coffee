@@ -29,6 +29,16 @@ This folder contains the **English documentation** for the PBPE × MBT55/HMT238 
 
 ---
 
+## 📊 Presentations (PDF)
+
+- **English Presentation**  
+  [../presentation/EN_Presentation.pdf](../presentation/EN_Presentation.pdf)
+
+- **Japanese Presentation**  
+  [../presentation/JP_Presentation.pdf](../presentation/JP_Presentation.pdf)
+
+---
+
 ## 📁 Folder Structure
 
 ```
