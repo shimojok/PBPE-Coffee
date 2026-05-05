@@ -1,5 +1,12 @@
 ![PBPE × MBT55 × Coffee Industry Banner](banner-image.png)
 
+> [!TIP]
+> **☕ コーヒー産業特化モデルはこちら：**
+> 
+> [**PBPE-Coffee**](https://github.com/shimojok/PBPE-Coffee) — Coffee leaf rust suppression, phenomics, digital MRV, and climate finance integration.
+
+---
+
 # **PBPE-Coffee
 
 Planetary Bio‑Phenome Engine × MBT55/HMT238 × Coffee Industry  
